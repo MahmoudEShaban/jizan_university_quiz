@@ -59,6 +59,12 @@ class FirestoreService {
     print("Add q to quiz ended");
   }
 
+  // Future<void> addOptionstoQuestion(Map QuizData, String Quizid)async {
+  //     var ref = _db.collection("quizzes").doc(Quizid).set(QuizData).catchError((e) {
+  //       print(e.toString());
+  //     });
+  // }
+
 
 
 

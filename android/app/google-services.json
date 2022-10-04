@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877341211246",
+    "project_id": "jizanquiz",
+    "storage_bucket": "jizanquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877341211246:android:8b0b190cb00965e70a047f",
+        "android_client_info": {
+          "package_name": "com.jizan.quiz.jizan_university_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877341211246-vcqbaddgsbbu47uhqs461kdoh50op8tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG36D7zl2zOywj5qcRPLjQsg3tNkUFBm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877341211246-vcqbaddgsbbu47uhqs461kdoh50op8tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/runner/CMakeFiles/jizan_university_quiz.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/runner/CMakeFiles/ALL_BUILD.dir

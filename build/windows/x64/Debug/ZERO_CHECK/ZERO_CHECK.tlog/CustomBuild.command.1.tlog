@@ -1,0 +1,10 @@
+^C:\USERS\MAHMO\STUDIOPROJECTS\JIZAN_UNIVERSITY_QUIZ\BUILD\WINDOWS\CMAKEFILES\ED8102FEEB3B80B377D7F707AC9D3382\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/mahmo/StudioProjects/Jizan_University_Quiz/windows -BC:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/mahmo/StudioProjects/Jizan_University_Quiz/build/windows/jizan_university_quiz.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
